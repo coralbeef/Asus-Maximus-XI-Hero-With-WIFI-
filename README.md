@@ -6,6 +6,7 @@ Sapphire RX580-4G
 Asus Maximus XI Hero with WIFI(CNVI-9560)
 Toshiba KG6 256G NVMe-SSD
 
+Using iGPU UHD630 or RX580-4G
 
 
-without dGPU
+
