@@ -1,4 +1,4 @@
-# Asus-Maximus-XI-Hero-With-WIFI-
+# Asus-Maximus-XI-Hero(WiFi)
 Hackintosh Clove and OC
 i5-9600K
 G-Skill DDR4 3200 16G*4
