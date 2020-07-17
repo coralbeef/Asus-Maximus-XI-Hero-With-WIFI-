@@ -10,3 +10,4 @@ Using iGPU UHD630 or RX580-4G
 
 
 
+This EFI can easily update to Catalina 10.15.6!
